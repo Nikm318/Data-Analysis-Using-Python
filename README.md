@@ -14,12 +14,12 @@ Jupyter Notebook – Interactive analysis
 
 Key Steps in Analysis
 
-✔ Importing and exploring the dataset
-✔ Data cleaning (handling missing values, duplicates)
-✔ Exploratory Data Analysis (EDA)
-✔ Trend analysis of sales over time
-✔ Product-wise and region-wise sales performance
-✔ Profitability insights with visualizations
+Importing and exploring the dataset,
+Data cleaning (handling missing values, duplicates),
+Exploratory Data Analysis (EDA),
+Trend analysis of sales over time,
+Product-wise and region-wise sales performance,
+Profitability insights with visualizations.
 
 Insights & Results
 
